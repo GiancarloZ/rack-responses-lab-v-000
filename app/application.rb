@@ -9,7 +9,7 @@ class Application
       resp.wrote "Good Afternoon!"
     end 
     
-    resp
+    resp.finish
   end
   
   
